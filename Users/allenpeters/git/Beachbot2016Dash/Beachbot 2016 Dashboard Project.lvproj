@@ -230,7 +230,7 @@
 			<Item Name="DStoPCPacketTypeDef.ctl" Type="VI" URL="../DStoPCPacketTypeDef.ctl"/>
 			<Item Name="BB_AutonomousSelector.lvlib" Type="Library" URL="../Custom/BB_AutonomousSelector.lvlib"/>
 			<Item Name="Interpolate RGB Color.vi" Type="VI" URL="../Interpolate RGB Color.vi"/>
-			<Item Name="BB_CameraIssue HTTP Request from MJPG-Streamer.vi" Type="VI" URL="../mjpg-streamer/BB_CameraIssue HTTP Request from MJPG-Streamer.vi"/>
+			<Item Name="BB_CameraIssue HTTP Request from MJPG-Streamer.vi" Type="VI" URL="../../../../../mjpg-streamer/BB_CameraIssue HTTP Request from MJPG-Streamer.vi"/>
 			<Item Name="BB_CameraMJPG-StreamerRead.vi" Type="VI" URL="../mjpg-streamer/BB_CameraMJPG-StreamerRead.vi"/>
 			<Item Name="BB_DashboardFPS Calculator.vi" Type="VI" URL="../mjpg-streamer/BB_DashboardFPS Calculator.vi"/>
 			<Item Name="Calibration Helper2.vi" Type="VI" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2015/examples/FRC/roboRIO/Vision/2016 Vision Example/Vision Support Code/Calibration Helper2.vi"/>
